@@ -22,37 +22,6 @@ th input {
 }
 </style>
 
-<script>
-function filterTable(inputId, columnIndex) {
-    var input, filter, table, tr, td, i, txtValue;
-    input = document.getElementById(inputId);
-    filter = input.value.toUpperCase();
-    table = document.getElementById("storyTable");
-    tr = table.getElementsByTagName("tr");
-
-    for (i = 1; i < tr.length; i++) {  // Start from 1 to skip header
-        td = tr[i].getElementsByTagName("td")[columnIndex];
-        if (td) {
-            txtValue = td.textContent || td.innerText;
-            if (txtValue.toUpperCase().indexOf(filter) > -1) {
-                tr[i].style.display = "";
-            } else {
-                tr[i].style.display = "none";
-            }
-        }       
-    }
-}
-
-function toggleSummary(details) {
-    const summary = details.querySelector("summary");
-    if (details.open) {
-        summary.style.display = "none"; // Hide summary when expanded
-    } else {
-        summary.style.display = "block"; // Show summary when collapsed
-    }
-}
-</script>
-
 <table border="1" class="dataframe" id="storyTable">
   <thead>
     <tr>
@@ -86,8 +55,8 @@ function toggleSummary(details) {
     </tr>
     <tr>
       <td>
-        <details onclick="toggleSummary(this)">
-          <summary>Read more about this interesting tale...</summary>
+        <details>
+          <summary>Click to read the full story</summary>
           <p>This is the full content of the longer story that was initially collapsed. The story goes into more detail here, explaining the nuances and the depth that the summary didn't reveal.</p>
         </details>
       </td>
