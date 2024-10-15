@@ -1,4 +1,3 @@
-
 <style>
 details summary {
     cursor: pointer;
@@ -22,7 +21,6 @@ th input {
     box-sizing: border-box;
 }
 </style>
-
 
 <script>
 function filterTable(inputId, columnIndex) {
@@ -78,7 +76,7 @@ function filterTable(inputId, columnIndex) {
       <td>11</td>
     </tr>
     <tr>
-      <td><details><summary>This is a longer story that exceeds the summary character limit set in the function. It should be properly collapsible without duplicating the initial</summary><p> characters.</p></details></td>
+      <td><details><summary>This is a longer story that exceeds the summary character limit</summary><p>This is the full content of the longer story that was initially collapsed.</p></details></td>
       <td>2</td>
       <td>4</td>
       <td>6</td>
