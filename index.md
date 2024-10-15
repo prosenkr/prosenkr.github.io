@@ -76,7 +76,12 @@ function filterTable(inputId, columnIndex) {
       <td>11</td>
     </tr>
     <tr>
-      <td><details><summary>This is a longer story that exceeds the summary character limit</summary><p>This is the full content of the longer story that was initially collapsed.</p></details></td>
+      <td>
+        <details>
+          <summary>Read more about this interesting tale...</summary>
+          <p>This is the full content of the longer story that was initially collapsed. The story goes into more detail here, explaining the nuances and the depth that the summary didn't reveal.</p>
+        </details>
+      </td>
       <td>2</td>
       <td>4</td>
       <td>6</td>
