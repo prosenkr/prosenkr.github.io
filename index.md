@@ -1,21 +1,28 @@
 
 <style>
-/* Hide the summary when the details element is open */
-details[open] summary {
-    display: none;
-}
-
-/* Optional: Style the summary to indicate it's clickable */
-summary {
+details summary {
     cursor: pointer;
     font-weight: bold;
 }
-
-/* Optional: Add some spacing to the paragraph */
 details p {
     margin: 10px 0;
 }
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+th, td {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+}
+th input {
+    width: 90%;
+    padding: 5px;
+    box-sizing: border-box;
+}
 </style>
+
 
 <script>
 function filterTable(inputId, columnIndex) {
@@ -38,7 +45,8 @@ function filterTable(inputId, columnIndex) {
     }
 }
 </script>
-<table id="storyTable"><table border="1" class="dataframe" id="storyTable">
+
+<table border="1" class="dataframe" id="storyTable">
   <thead>
     <tr>
         <th><input type="text" id="filterStory" onkeyup="filterTable('filterStory', 0)" placeholder="Filter Story"></th>
@@ -70,7 +78,7 @@ function filterTable(inputId, columnIndex) {
       <td>11</td>
     </tr>
     <tr>
-      <td>\n        <details>\n            <summary>This is a longer story that exceeds the summary character limit set in the function. It should be properly collapsible without duplicating the initial...</summary>\n            <p>This is a longer story that exceeds the summary character limit set in the function. It should be properly collapsible without duplicating the initial characters.</p>\n        </details>\n</td>
+      <td><details><summary>This is a longer story that exceeds the summary character limit set in the function. It should be properly collapsible without duplicating the initial</summary><p> characters.</p></details></td>
       <td>2</td>
       <td>4</td>
       <td>6</td>
@@ -88,4 +96,4 @@ function filterTable(inputId, columnIndex) {
       <td>11</td>
     </tr>
   </tbody>
-</table></table>
+</table>
