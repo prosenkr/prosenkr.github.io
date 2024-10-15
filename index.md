@@ -42,6 +42,15 @@ function filterTable(inputId, columnIndex) {
         }       
     }
 }
+
+function toggleSummary(details) {
+    const summary = details.querySelector("summary");
+    if (details.open) {
+        summary.style.display = "none"; // Hide summary when expanded
+    } else {
+        summary.style.display = "block"; // Show summary when collapsed
+    }
+}
 </script>
 
 <table border="1" class="dataframe" id="storyTable">
@@ -77,7 +86,7 @@ function filterTable(inputId, columnIndex) {
     </tr>
     <tr>
       <td>
-        <details>
+        <details onclick="toggleSummary(this)">
           <summary>Read more about this interesting tale...</summary>
           <p>This is the full content of the longer story that was initially collapsed. The story goes into more detail here, explaining the nuances and the depth that the summary didn't reveal.</p>
         </details>
