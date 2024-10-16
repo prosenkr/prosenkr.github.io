@@ -56,7 +56,7 @@ function sortTable(columnIndex) {
 </script>
 
 <table border="1" class="dataframe" id="storyTable">
-  <thead><tr><th><button onclick="sortTable(0)">STORY</button></th><th><button onclick="sortTable(1)">CreativityScore</button></th><th><button onclick="sortTable(2)">UsefulnessIndex</button></th><th><button onclick="sortTable(3)">NoveltyIndex</button></th><th><button onclick="sortTable(4)">OwnershipIndex</button></th><th><button onclick="sortTable(5)">Enjoyed</button></th><th><button onclick="sortTable(6)">WellWritten</button></th><th><button onclick="sortTable(7)">Boring</button></th><th><button onclick="sortTable(8)">Funny</button></th><th><button onclick="sortTable(9)">Twist</button></th><th><button onclick="sortTable(10)">DAT</button></th></tr>
+  <thead><tr><th><button onclick="sortTable(0)">⇅</button></th><th><button onclick="sortTable(1)">⇅</button></th><th><button onclick="sortTable(2)">⇅</button></th><th><button onclick="sortTable(3)">⇅</button></th><th><button onclick="sortTable(4)">⇅</button></th><th><button onclick="sortTable(5)">⇅</button></th><th><button onclick="sortTable(6)">⇅</button></th><th><button onclick="sortTable(7)">⇅</button></th><th><button onclick="sortTable(8)">⇅</button></th><th><button onclick="sortTable(9)">⇅</button></th><th><button onclick="sortTable(10)">⇅</button></th></tr>
     <tr style="text-align: right;">
       <th>STORY</th>
       <th>CreativityScore</th>
