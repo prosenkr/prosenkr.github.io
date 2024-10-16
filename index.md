@@ -15,15 +15,48 @@ th, td {
     text-align: left;
     padding: 8px;
 }
-th input {
-    width: 90%;
-    padding: 5px;
-    box-sizing: border-box;
+th button {
+    background: none;
+    border: none;
+    cursor: pointer;
+    font-weight: bold;
+    color: #007bff;
 }
 </style>
 
+
+<script>
+function sortTable(columnIndex) {
+    const table = document.getElementById('storyTable');
+    const rows = Array.from(table.rows).slice(1); // Get all rows except the header
+    
+    const isAscending = table.getAttribute('data-sort-asc') === 'true';
+    
+    rows.sort((rowA, rowB) => {
+        const cellA = rowA.cells[columnIndex].innerText.toLowerCase();
+        const cellB = rowB.cells[columnIndex].innerText.toLowerCase();
+        
+        // Attempt to convert the values to numbers if possible
+        const numA = parseFloat(cellA);
+        const numB = parseFloat(cellB);
+        
+        if (!isNaN(numA) && !isNaN(numB)) {
+            return isAscending ? numA - numB : numB - numA;
+        }
+        
+        return isAscending ? cellA.localeCompare(cellB) : cellB.localeCompare(cellA);
+    });
+    
+    // Toggle the sort order
+    table.setAttribute('data-sort-asc', !isAscending);
+    
+    // Append sorted rows back to the table body
+    rows.forEach(row => table.tBodies[0].appendChild(row));
+}
+</script>
+
 <table border="1" class="dataframe" id="storyTable">
-  <thead>
+  <thead><tr><th><button onclick="sortTable(0)">STORY</button></th><th><button onclick="sortTable(1)">CreativityScore</button></th><th><button onclick="sortTable(2)">UsefulnessIndex</button></th><th><button onclick="sortTable(3)">NoveltyIndex</button></th><th><button onclick="sortTable(4)">OwnershipIndex</button></th><th><button onclick="sortTable(5)">Enjoyed</button></th><th><button onclick="sortTable(6)">WellWritten</button></th><th><button onclick="sortTable(7)">Boring</button></th><th><button onclick="sortTable(8)">Funny</button></th><th><button onclick="sortTable(9)">Twist</button></th><th><button onclick="sortTable(10)">DAT</button></th></tr>
     <tr style="text-align: right;">
       <th>STORY</th>
       <th>CreativityScore</th>
