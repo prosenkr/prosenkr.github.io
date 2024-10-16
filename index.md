@@ -46,6 +46,7 @@ th input {
     <tr>
       <td>
         <details>
+            <p>Test</p>
           <summary>Click to read the full story</summary>
           <p>This is the full content of the longer story that was initially collapsed. The story goes into more detail here, explaining the nuances and the depth that the summary didn't reveal.</p>
         </details>
