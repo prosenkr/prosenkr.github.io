@@ -1,7 +1,6 @@
 <style>
 details summary {
     cursor: pointer;
-    font-weight: bold;
 }
 details p {
     margin: 10px 0;
