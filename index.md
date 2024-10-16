@@ -15,12 +15,19 @@ th, td {
     text-align: left;
     padding: 8px;
 }
+th {
+    position: relative;
+}
 th button {
     background: none;
     border: none;
     cursor: pointer;
     font-weight: bold;
     color: #007bff;
+    position: absolute;
+    right: 5px;
+    top: 50%;
+    transform: translateY(-50%);
 }
 </style>
 
@@ -56,7 +63,7 @@ function sortTable(columnIndex) {
 </script>
 
 <table border="1" class="dataframe" id="storyTable">
-  <thead><tr><th><button onclick="sortTable(0)">⇅</button></th><th><button onclick="sortTable(1)">⇅</button></th><th><button onclick="sortTable(2)">⇅</button></th><th><button onclick="sortTable(3)">⇅</button></th><th><button onclick="sortTable(4)">⇅</button></th><th><button onclick="sortTable(5)">⇅</button></th><th><button onclick="sortTable(6)">⇅</button></th><th><button onclick="sortTable(7)">⇅</button></th><th><button onclick="sortTable(8)">⇅</button></th><th><button onclick="sortTable(9)">⇅</button></th><th><button onclick="sortTable(10)">⇅</button></th></tr>
+  <thead><tr><th>STORY <button onclick="sortTable(0)">⇅</button></th><th>CreativityScore <button onclick="sortTable(1)">⇅</button></th><th>UsefulnessIndex <button onclick="sortTable(2)">⇅</button></th><th>NoveltyIndex <button onclick="sortTable(3)">⇅</button></th><th>OwnershipIndex <button onclick="sortTable(4)">⇅</button></th><th>Enjoyed <button onclick="sortTable(5)">⇅</button></th><th>WellWritten <button onclick="sortTable(6)">⇅</button></th><th>Boring <button onclick="sortTable(7)">⇅</button></th><th>Funny <button onclick="sortTable(8)">⇅</button></th><th>Twist <button onclick="sortTable(9)">⇅</button></th><th>DAT <button onclick="sortTable(10)">⇅</button></th></tr>
     <tr style="text-align: right;">
       <th>STORY</th>
       <th>CreativityScore</th>
