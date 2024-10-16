@@ -17,7 +17,7 @@ th, td {
 }
 th {
     position: relative;
-    padding-right: 25px; /* Add space on the right to ensure room for the button */
+    padding-right: 50px; /* Add space on the right to ensure room for the button */
 }
 th button {
     background: none;
