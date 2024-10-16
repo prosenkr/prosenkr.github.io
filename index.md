@@ -17,6 +17,7 @@ th, td {
 }
 th {
     position: relative;
+    padding-right: 25px; /* Add space on the right to ensure room for the button */
 }
 th button {
     background: none;
@@ -25,9 +26,10 @@ th button {
     font-weight: bold;
     color: #007bff;
     position: absolute;
-    right: 5px;
+    right: 5px; /* Adjust the distance from the right edge */
     top: 50%;
     transform: translateY(-50%);
+    margin-left: 10px; /* Increase space between text and button */
 }
 </style>
 
