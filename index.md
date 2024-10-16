@@ -24,15 +24,6 @@ th input {
 
 <table border="1" class="dataframe" id="storyTable">
   <thead>
-    <tr>
-        <th><input type="text" id="filterStory" onkeyup="filterTable('filterStory', 0)" placeholder="Filter Story"></th>
-        <th><input type="text" id="filterBoring" onkeyup="filterTable('filterBoring', 1)" placeholder="Filter Boring"></th>
-        <th><input type="text" id="filterFunny" onkeyup="filterTable('filterFunny', 2)" placeholder="Filter Funny"></th>
-        <th><input type="text" id="filterCreativityScore" onkeyup="filterTable('filterCreativityScore', 3)" placeholder="Filter Creativity"></th>
-        <th><input type="text" id="filterUsefulnessIndex" onkeyup="filterTable('filterUsefulnessIndex', 4)" placeholder="Filter Usefulness"></th>
-        <th><input type="text" id="filterNoveltyIndex" onkeyup="filterTable('filterNoveltyIndex', 5)" placeholder="Filter Novelty"></th>
-        <th><input type="text" id="filterOwnershipIndex" onkeyup="filterTable('filterOwnershipIndex', 6)" placeholder="Filter Ownership"></th>
-    </tr>
     <tr style="text-align: right;">
       <th>STORY</th>
       <th>Boring</th>
