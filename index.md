@@ -48,18 +48,36 @@ function sortTable(columnIndex) {
     const table = document.getElementById('storyTable');
     const tbody = table.tBodies[0];
     const rows = Array.from(tbody.rows);
-    const isAscending = table.getAttribute('data-sort-asc') === 'true';
+    // Get the current sort order for this column
+    let isAscending = table.getAttribute('data-sort-asc-' + columnIndex) === 'true';
+
     rows.sort((rowA, rowB) => {
-        const cellA = rowA.cells[columnIndex].textContent.trim().toLowerCase();
-        const cellB = rowB.cells[columnIndex].textContent.trim().toLowerCase();
+        const cellA = rowA.cells[columnIndex].textContent.trim();
+        const cellB = rowB.cells[columnIndex].textContent.trim();
+
+        // Try to parse as dates
+        const dateA = Date.parse(cellA);
+        const dateB = Date.parse(cellB);
+
+        if (!isNaN(dateA) && !isNaN(dateB)) {
+            return isAscending ? dateA - dateB : dateB - dateA;
+        }
+
+        // Attempt to convert the values to numbers if possible
         const numA = parseFloat(cellA);
         const numB = parseFloat(cellB);
+
         if (!isNaN(numA) && !isNaN(numB)) {
             return isAscending ? numA - numB : numB - numA;
         }
+
         return isAscending ? cellA.localeCompare(cellB) : cellB.localeCompare(cellA);
     });
-    table.setAttribute('data-sort-asc', !isAscending);
+
+    // Toggle the sort order for this column
+    isAscending = !isAscending;
+    table.setAttribute('data-sort-asc-' + columnIndex, isAscending);
+
     // Remove existing rows
     while (tbody.firstChild) {
         tbody.removeChild(tbody.firstChild);
