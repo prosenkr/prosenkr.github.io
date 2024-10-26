@@ -1,4 +1,4 @@
-
+# Results of Survey on AI in Creativity Development
 <style>
 details.story-details summary {
     cursor: pointer;
