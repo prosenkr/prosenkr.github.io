@@ -4,6 +4,7 @@ A total of 196 valid contributions to the experimental survey were gathered. Eac
 
 ### Evaluation Criteria
 
+<div style="font-size: 0.85em;">
 | **Category**               | **Question**                                                                                     | **Variable**       |
 |----------------------------|-------------------------------------------------------------------------------------------------|-------------------|
 | **Creativity Scores**      |                                                                                                 |                   |
@@ -23,7 +24,7 @@ A total of 196 valid contributions to the experimental survey were gathered. Eac
 | **Ownership Index**        |                                                                                                 |                   |
 |                            | To what extent do you think the story reflects the author's own ideas?         | *AuthorsIdea*     |
 |                            | To what extent do you think the story was based on or written by an AI tool?                 | *ByAI*            |
-
+</div>
 
 ## Short Overview of Results
 
