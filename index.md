@@ -7,11 +7,11 @@ A total of 196 valid contributions to the experimental survey were gathered. Eac
 | **Category**               | **Question**                                                                                     | **Variable**       |
 |----------------------------|-------------------------------------------------------------------------------------------------|-------------------|
 | **Creativity Scores**      |                                                                                                 |                   |
-|                            | **Novelty Index**                                                                           |                   |
+|                            | **Novelty Index:**                                                                           |                   |
 |                            | How novel do you think the story is?                                                   | *Novel*           |
 |                            | How original do you think the story is?                                                | *Original*        |
 |                            | How rare (i.e., unusual) do you think the story is?                                     | *Rare*            |
-|                            | **Usefulness Index**                                                                           |                   |
+|                            | **Usefulness Index:**                                                                           |                   |
 |                            | How feasible do you think the story is to be developed into a complete book?           | *Feasible*        |
 |                            | How appropriate do you think the story is for the intended audience?                   | *Appropriate*     |
 | **Emotional Characteristics** |                                                                                              |                   |
@@ -22,10 +22,7 @@ A total of 196 valid contributions to the experimental survey were gathered. Eac
 |                            | The story has a surprising twist                                                              | *Twist*           |
 | **Ownership Index**        |                                                                                                 |                   |
 |                            | To what extent do you think the story reflects the author's own ideas?         | *AuthorsIdea*     |
-|                            | To what extent do you think the story was based on or written by an AI tool?**                 | *ByAI*            |
-
-\*For own evaluation score  
-\*\*Only in evaluation survey
+|                            | To what extent do you think the story was based on or written by an AI tool?                 | *ByAI*            |
 
 
 ## Short Overview of Results
