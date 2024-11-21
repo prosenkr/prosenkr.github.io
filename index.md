@@ -1,6 +1,11 @@
 # Results of Survey on AI in Creativity Development
+Since you have reached this page, you have probably participated in the survey for my master's thesis. Once again, thank you very much for your contribution! Following, the results of my studies are shortly summarized and the submitted stories are listed, including their scores. To find your story, you may want to filter by date and expand the story text. The overview does *not* list stories from participants who specifically requested that their story should not be included. If your story is not included and you wish to receive your scores, please contact me. \\
+A total of 196 valid contributions to the experimental survey were gathered. Each participant submitted an 8-sentence short story, took part in a divergent thinking task (DAT score), and completed pre- and post-questionnaires. In a secondary survey, each story was rated by randomly assigned evaluators, resulting in approximately five ratings per story.
 
-## Stories and Scores - Overview
+## Short Overview of Results
+
+
+## Stories and Scores
 <style>
 details.story-details summary {
     cursor: pointer;
@@ -96,9 +101,9 @@ function sortTable(columnIndex) {
 <th>Date<br/><button onclick="sortTable(1)">⇅</button></th>
 <th>Group<br/><button onclick="sortTable(2)">⇅</button></th>
 <th>Creativity Score<br/><button onclick="sortTable(3)">⇅</button></th>
-<th>Usefulness Score<br/><button onclick="sortTable(4)">⇅</button></th>
-<th>Novelty Score<br/><button onclick="sortTable(5)">⇅</button></th>
-<th>Ownership Score<br/><button onclick="sortTable(6)">⇅</button></th>
+<th>Usefulness Index<br/><button onclick="sortTable(4)">⇅</button></th>
+<th>Novelty Index<br/><button onclick="sortTable(5)">⇅</button></th>
+<th>Ownership Index<br/><button onclick="sortTable(6)">⇅</button></th>
 <th>Enjoyed<br/><button onclick="sortTable(7)">⇅</button></th>
 <th>Well Written<br/><button onclick="sortTable(8)">⇅</button></th>
 <th>Boring<br/><button onclick="sortTable(9)">⇅</button></th>
