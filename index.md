@@ -5,25 +5,78 @@ Overall, 196 valid short stories were gathered. Besides submitting an 8-sentence
 ### Evaluation Criteria
 
 <div style="font-size: 0.85em;">
-| **Category**               | **Question**                                                                                     | **Variable**       |
-|----------------------------|-------------------------------------------------------------------------------------------------|-------------------|
-| **Creativity Scores**      |                                                                                                 |                   |
-|                            | **Novelty Index:**                                                                           |                   |
-|                            | How novel do you think the story is?                                                   | *Novel*           |
-|                            | How original do you think the story is?                                                | *Original*        |
-|                            | How rare (i.e., unusual) do you think the story is?                                     | *Rare*            |
-|                            | **Usefulness Index:**                                                                           |                   |
-|                            | How feasible do you think the story is to be developed into a complete book?           | *Feasible*        |
-|                            | How appropriate do you think the story is for the intended audience?                   | *Appropriate*     |
-| **Emotional Characteristics** |                                                                                              |                   |
-|                            | The story is funny                                                                             | *Funny*           |
-|                            | The story is boring                                                                            | *Boring*          |
-|                            | The story is well written                                                                      | *WellWritten*     |
-|                            | I enjoyed reading this story                                                       | *Enjoyed*         |
-|                            | The story has a surprising twist                                                              | *Twist*           |
-| **Ownership Index**        |                                                                                                 |                   |
-|                            | To what extent do you think the story reflects the author's own ideas?         | *AuthorsIdea*     |
-|                            | To what extent do you think the story was based on or written by an AI tool?                 | *ByAI*            |
+
+<table>
+  <thead>
+    <tr>
+      <th>Category</th>
+      <th>Question</th>
+      <th>Variable</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td rowspan="6"><strong>Creativity Scores</strong></td>
+      <td><strong>Novelty Index:</strong></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>How novel do you think the story is?</td>
+      <td><em>Novel</em></td>
+    </tr>
+    <tr>
+      <td>How original do you think the story is?</td>
+      <td><em>Original</em></td>
+    </tr>
+    <tr>
+      <td>How rare (i.e., unusual) do you think the story is?</td>
+      <td><em>Rare</em></td>
+    </tr>
+    <tr>
+      <td><strong>Usefulness Index:</strong></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>How feasible do you think the story is to be developed into a complete book?</td>
+      <td><em>Feasible</em></td>
+    </tr>
+    <tr>
+      <td>How appropriate do you think the story is for the intended audience?</td>
+      <td><em>Appropriate</em></td>
+    </tr>
+    <tr>
+      <td rowspan="5"><strong>Emotional Characteristics</strong></td>
+      <td>The story is funny</td>
+      <td><em>Funny</em></td>
+    </tr>
+    <tr>
+      <td>The story is boring</td>
+      <td><em>Boring</em></td>
+    </tr>
+    <tr>
+      <td>The story is well written</td>
+      <td><em>WellWritten</em></td>
+    </tr>
+    <tr>
+      <td>I enjoyed reading this story</td>
+      <td><em>Enjoyed</em></td>
+    </tr>
+    <tr>
+      <td>The story has a surprising twist</td>
+      <td><em>Twist</em></td>
+    </tr>
+    <tr>
+      <td rowspan="2"><strong>Ownership Index</strong></td>
+      <td>To what extent do you think the story reflects the author's own ideas?</td>
+      <td><em>AuthorsIdea</em></td>
+    </tr>
+    <tr>
+      <td>To what extent do you think the story was based on or written by an AI tool?</td>
+      <td><em>ByAI</em></td>
+    </tr>
+  </tbody>
+</table>
+
 </div>
 
 ## Short Overview of Results
