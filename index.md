@@ -1,26 +1,27 @@
 # Results of Survey on AI in Creativity Development
 Since you have reached this page, you have probably participated in the survey for my master's thesis. Once again, thank you very much for your contribution! Following, the results of my studies are shortly summarized and the submitted stories are listed, including their scores. To find your story, you may want to filter by date and expand the story text. The overview does *not* list stories from participants who specifically requested that their story should not be included. If your story is not included and you wish to receive your scores, please contact me. \\
-A total of 196 valid contributions to the experimental survey were gathered. Each participant submitted an 8-sentence short story, took part in a divergent thinking task (DAT score), and completed pre- and post-questionnaires regarding their creative self-efficacy and motivation to enhance their creative writing skills. In a secondary survey, each story was rated by randomly assigned evaluators. This way, approximately five ratings per story were gathered, of which the averages were taken. The stories were rated by the following evaluation criteria:
+A total of 196 valid contributions to the experimental survey were gathered. Each participant submitted an 8-sentence short story, took part in a divergent thinking task (DAT score), and completed pre- and post-questionnaires regarding their creative self-efficacy and motivation to enhance their creative writing skills. In a secondary survey, each story was rated by randomly assigned evaluators. This way, approximately five ratings per story were gathered, of which the averages were taken. The stories were rated by the following evaluation criteria on a scale from 1 (Not at all) to 7 (Extremely):
 
 ### Evaluation Criteria
 
 | **Category**               | **Question**                                                                                     | **Variable**       |
 |----------------------------|-------------------------------------------------------------------------------------------------|-------------------|
 | **Creativity Scores**      |                                                                                                 |                   |
-|                            | How novel do you think the (your*) story is?                                                   | *Novel*           |
-|                            | How original do you think the (your*) story is?                                                | *Original*        |
-|                            | How rare (i.e., unusual) do you think the (your*) story is?                                     | *Rare*            |
+|                            | **Novelty Index**                                                                           |                   |
+|                            | How novel do you think the story is?                                                   | *Novel*           |
+|                            | How original do you think the story is?                                                | *Original*        |
+|                            | How rare (i.e., unusual) do you think the story is?                                     | *Rare*            |
 |                            | **Usefulness Index**                                                                           |                   |
-|                            | How feasible do you think the (your*) story is to be developed into a complete book?           | *Feasible*        |
-|                            | How appropriate do you think the (your*) story is for the intended audience?                   | *Appropriate*     |
+|                            | How feasible do you think the story is to be developed into a complete book?           | *Feasible*        |
+|                            | How appropriate do you think the story is for the intended audience?                   | *Appropriate*     |
 | **Emotional Characteristics** |                                                                                              |                   |
 |                            | The story is funny                                                                             | *Funny*           |
 |                            | The story is boring                                                                            | *Boring*          |
 |                            | The story is well written                                                                      | *WellWritten*     |
-|                            | I enjoyed reading (writing*) this story                                                       | *Enjoyed*         |
+|                            | I enjoyed reading this story                                                       | *Enjoyed*         |
 |                            | The story has a surprising twist                                                              | *Twist*           |
 | **Ownership Index**        |                                                                                                 |                   |
-|                            | To what extent do you think the (your*) story reflects the author's (your*) own ideas?         | *AuthorsIdea*     |
+|                            | To what extent do you think the story reflects the author's own ideas?         | *AuthorsIdea*     |
 |                            | To what extent do you think the story was based on or written by an AI tool?**                 | *ByAI*            |
 
 \*For own evaluation score  
