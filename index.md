@@ -92,19 +92,19 @@ function sortTable(columnIndex) {
 <table border="1" class="dataframe" id="storyTable">
 <thead>
 <tr style="text-align: right;">
-<th>STORY<br/><button onclick="sortTable(0)">⇅</button></th>
-<th>date<br/><button onclick="sortTable(1)">⇅</button></th>
+<th>Story<br/><button onclick="sortTable(0)">⇅</button></th>
+<th>Date<br/><button onclick="sortTable(1)">⇅</button></th>
 <th>Group<br/><button onclick="sortTable(2)">⇅</button></th>
-<th>CreativityScore<br/><button onclick="sortTable(3)">⇅</button></th>
-<th>UsefulnessIndex<br/><button onclick="sortTable(4)">⇅</button></th>
-<th>NoveltyIndex<br/><button onclick="sortTable(5)">⇅</button></th>
-<th>OwnershipIndex<br/><button onclick="sortTable(6)">⇅</button></th>
+<th>Creativity Score<br/><button onclick="sortTable(3)">⇅</button></th>
+<th>Usefulness Score<br/><button onclick="sortTable(4)">⇅</button></th>
+<th>Novelty Score<br/><button onclick="sortTable(5)">⇅</button></th>
+<th>Ownership Score<br/><button onclick="sortTable(6)">⇅</button></th>
 <th>Enjoyed<br/><button onclick="sortTable(7)">⇅</button></th>
-<th>WellWritten<br/><button onclick="sortTable(8)">⇅</button></th>
+<th>Well Written<br/><button onclick="sortTable(8)">⇅</button></th>
 <th>Boring<br/><button onclick="sortTable(9)">⇅</button></th>
 <th>Funny<br/><button onclick="sortTable(10)">⇅</button></th>
 <th>Twist<br/><button onclick="sortTable(11)">⇅</button></th>
-<th>DAT<br/><button onclick="sortTable(12)">⇅</button></th>
+<th>DAT Score<br/><button onclick="sortTable(12)">⇅</button></th>
 </tr>
 </thead>
 <tbody>
