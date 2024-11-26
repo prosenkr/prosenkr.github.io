@@ -84,9 +84,9 @@ Overall, 196 valid short stories were gathered. Besides submitting an 8-sentence
 
 ## Short Overview of Results
 
-<img src="figures/AIUsage_Dis_Filtered_ByGroup.png" alt="Alt text for the image" width="300">
+Participants were assigned to one of three experimental groups with different treatments regarding the task of writing a short story. **Group 1** had no access to ChatGPT, **Group 2** had access to ChatGPT while writing the short story, and **Group 3** had access to ChatGPT after the task to revise their story. Significant differences with regard to the study objective were primarily found comparing Group 1 and Group 2. Analyzing the cosine similarity of each story to other stories within their group reveals significantly higher average similarity when participants had unrestricted access to ChatGPT (see Figure 1). This suggests that collective novelty diminishes with the introduction of AI compared to creative writing without AI, as ChatGPT produces content that reflects patterns learned from existing data.
 
-<img src="figures/SemanticDiff.png" alt="Alt text for the image" width="300">
+<img src="figures/SemanticDiff.png" alt="Alt text for the image" width="500">
 
 <img src="figures/BoxPlots_All_2.png" alt="Alt text for the image" width="300">
 
