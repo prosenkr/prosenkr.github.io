@@ -84,10 +84,15 @@ Overall, 196 valid short stories were gathered. Besides submitting an 8-sentence
 
 ## Short Overview of Results
 
-<img src="figures/SemanticDiff.png" alt="Alt text for the image" width="300">
-
 <img src="figures/AIUsage_Dis_Filtered_ByGroup.png" alt="Alt text for the image" width="300">
 
+<img src="figures/SemanticDiff.png" alt="Alt text for the image" width="300">
+
+<img src="figures/BoxPlots_All_2.png" alt="Alt text for the image" width="300">
+
+<img src="figures/Bootstrap_NoveltyIndex_KDE2.png" alt="Alt text for the image" width="300">
+
+<img src="figures/Bootstrap_Motivation_KDE2.png" alt="Alt text for the image" width="300">
 
 ## Stories and Scores
 <style>
