@@ -81,6 +81,7 @@ Overall, 196 valid short stories were gathered. Besides submitting an 8-sentence
 
 ## Short Overview of Results
 
+<img src="figures/SemanticDiff.png" alt="Alt text for the image" width="300">
 
 ## Stories and Scores
 <style>
