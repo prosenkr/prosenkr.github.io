@@ -2,7 +2,7 @@
 
 *You are just here to see how your story was rated? Go ahead and jump to the <a href="#stories-and-scores">stories and their scores</a>.*
 
-Since you have reached this page, you have probably participated in the survey for my master's thesis. Once again, thank you very much for your contribution! Following, the results of my studies are shortly summarized and the submitted stories are listed, including their scores. To find your story, you may want to filter by date and expand the story text. The overview does *not* list stories from participants who specifically requested that their story should not be included. If your story is not included and you wish to receive your scores, please contact me. \\
+Since you have reached this page, you have probably participated in the survey for my master's thesis. Once again, thank you very much for your contribution! Following, the results of my studies are shortly summarized and the submitted stories are listed, including their scores. \\
 Overall, 196 valid short stories were gathered. Besides submitting an 8-sentence short story, each participant took part in a divergent thinking task (DAT score), and completed pre- and post-questionnaires regarding their creative self-efficacy and motivation to enhance their creative writing skills. In a secondary survey, each story was rated by randomly assigned evaluators. This way, approximately five ratings per story were gathered, of which the averages were taken. The stories were rated by the following evaluation criteria on a scale from 1 (Not at all) to 7 (Extremely):
 
 ### Evaluation Criteria
@@ -86,15 +86,24 @@ Overall, 196 valid short stories were gathered. Besides submitting an 8-sentence
 
 Participants were assigned to one of three experimental groups with different treatments regarding the task of writing a short story. **Group 1** had no access to ChatGPT, **Group 2** had access to ChatGPT while writing the short story, and **Group 3** had access to ChatGPT after the task to revise their story. Significant differences with regard to the study objective were primarily found comparing Group 1 and Group 2. Analyzing the cosine similarity of each story to other stories within their group reveals significantly higher average similarity when participants had unrestricted access to ChatGPT (see Figure 1). This suggests that collective novelty diminishes with the introduction of AI compared to creative writing without AI, as ChatGPT produces content that reflects patterns learned from existing data.
 
-<img src="figures/SemanticDiff.png" alt="Alt text for the image" width="500">
+<img src="figures/SemanticDiff.png" alt="Alt text for the image" width="450">
 
-<img src="figures/BoxPlots_All_2.png" alt="Alt text for the image" width="300">
+This finding was also supported by a significantly lower novelty index of stories in Group 2 rated by other participants (see Figure 2). No significant differences between groups were found for the usefulness rating and for emotional characteristics like *funny* or *well written*. The pre- and post-questionnaires revealed a significantly lower motivation to enhance creative writing skills after the task if a participant had unrestricted access to ChatGPT (see Figure 3 and 4). This highlights a potential negative consequence of AI support on creative skill development. When AI takes on a primary role in content creation, it may diminish the individual’s sense of authorship and control over the creative process, undermining autonomy and, consequently, intrinsic motivation. In addition, extrinsic motivation seems to be weakened by the perception that the goal achieved is not related to one’s own accomplishments, but rather to the supported AI. The fact that this decline in motivation was recognized despite the short duration of the experiment is particularly remarkable and indicates that the effects of AI support on motivation can appear even in short term scenarios. Creative self-efficacy on the other hand showed no significant differences among the groups.
+
+<figure>
+  <img src="figures/BoxPlots_All_2.png" alt="Alt text for the image" width="600">
+  <figcaption>Figure 2</figcaption>
+</figure>
 
 <img src="figures/Bootstrap_NoveltyIndex_KDE2.png" alt="Alt text for the image" width="300">
 
 <img src="figures/Bootstrap_Motivation_KDE2.png" alt="Alt text for the image" width="300">
 
+This study further aimed to investigate differences with regards to the baseline creativity skill levels by measuring divergent thinking skills with a divergent association task (DAT). Previous studies observed an equalizing effect of AI, with low-skilled participants benefiting greater from AI regarding the writing quality. In this study no such effects were observed. This may be due to the relatively high average skill level of all participants or the fully unrestricted access of ChatGPT compared to other studies.
+
 ## Stories and Scores
+To find your story, you may want to filter by date and expand the story text. This table displays only stories of participants that did *not* request to exclude their story. If your story is not included and you wish to receive your scores, please contact me.
+
 <style>
 details.story-details summary {
     cursor: pointer;
