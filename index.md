@@ -86,18 +86,29 @@ Overall, 196 valid short stories were gathered. Besides submitting an 8-sentence
 
 Participants were assigned to one of three experimental groups with different treatments regarding the task of writing a short story. **Group 1** had no access to ChatGPT, **Group 2** had access to ChatGPT while writing the short story, and **Group 3** had access to ChatGPT after the task to revise their story. Significant differences with regard to the study objective were primarily found comparing Group 1 and Group 2. Analyzing the cosine similarity of each story to other stories within their group reveals significantly higher average similarity when participants had unrestricted access to ChatGPT (see Figure 1). This suggests that collective novelty diminishes with the introduction of AI compared to creative writing without AI, as ChatGPT produces content that reflects patterns learned from existing data.
 
+<figure>
 <img src="figures/SemanticDiff.png" alt="Alt text for the image" width="450">
+<figcaption>Figure 1</figcaption>
+</figure>
 
-This finding was also supported by a significantly lower novelty index of stories in Group 2 rated by other participants (see Figure 2). No significant differences between groups were found for the usefulness rating and for emotional characteristics like *funny* or *well written*. The pre- and post-questionnaires revealed a significantly lower motivation to enhance creative writing skills after the task if a participant had unrestricted access to ChatGPT (see Figure 3 and 4). This highlights a potential negative consequence of AI support on creative skill development. When AI takes on a primary role in content creation, it may diminish the individual’s sense of authorship and control over the creative process, undermining autonomy and, consequently, intrinsic motivation. In addition, extrinsic motivation seems to be weakened by the perception that the goal achieved is not related to one’s own accomplishments, but rather to the supported AI. The fact that this decline in motivation was recognized despite the short duration of the experiment is particularly remarkable and indicates that the effects of AI support on motivation can appear even in short term scenarios. Creative self-efficacy on the other hand showed no significant differences among the groups.
+This finding was also supported by a significantly lower novelty index of stories in Group 2 rated by other participants (see Figure 2). No significant differences between groups were found for the usefulness rating and for emotional characteristics like *funny* or *well written*.
 
 <figure>
-  <img src="figures/BoxPlots_All_2.png" alt="Alt text for the image" width="600">
+  <img src="figures/BoxPlots_All_2.png" alt="Alt text for the image" width="800">
   <figcaption>Figure 2</figcaption>
 </figure>
 
-<img src="figures/Bootstrap_NoveltyIndex_KDE2.png" alt="Alt text for the image" width="300">
+The pre- and post-questionnaires revealed a significantly lower motivation to enhance creative writing skills after the task if a participant had unrestricted access to ChatGPT (see Figure 3 and 4). This highlights a potential negative consequence of AI support on creative skill development. When AI takes on a primary role in content creation, it may diminish the individual’s sense of authorship and control over the creative process, undermining autonomy and, consequently, intrinsic motivation. In addition, extrinsic motivation seems to be weakened by the perception that the goal achieved is not related to one’s own accomplishments, but rather to the supported AI. The fact that this decline in motivation was recognized despite the short duration of the experiment is particularly remarkable and indicates that the effects of AI support on motivation can appear even in short term scenarios. Creative self-efficacy on the other hand showed no significant differences among the groups.
 
-<img src="figures/Bootstrap_Motivation_KDE2.png" alt="Alt text for the image" width="300">
+<figure>
+<img src="figures/Bootstrap_NoveltyIndex_KDE2.png" alt="Alt text for the image" width="450">
+<figcaption>Figure 3</figcaption>
+</figure>
+
+<figure>
+<img src="figures/Bootstrap_Motivation_KDE2.png" alt="Alt text for the image" width="450">
+<figcaption>Figure 4</figcaption>
+</figure>
 
 This study further aimed to investigate differences with regards to the baseline creativity skill levels by measuring divergent thinking skills with a divergent association task (DAT). Previous studies observed an equalizing effect of AI, with low-skilled participants benefiting greater from AI regarding the writing quality. In this study no such effects were observed. This may be due to the relatively high average skill level of all participants or the fully unrestricted access of ChatGPT compared to other studies.
 
