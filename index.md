@@ -16,7 +16,7 @@ Overall, 196 valid short stories were gathered. Besides submitting an 8-sentence
   </thead>
   <tbody>
     <tr>
-      <td rowspan="6"><strong>Creativity Scores</strong></td>
+      <td rowspan="7"><strong>Creativity Score</strong></td>
       <td><strong>Novelty Index:</strong></td>
       <td></td>
     </tr>
