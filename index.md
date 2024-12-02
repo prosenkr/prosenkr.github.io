@@ -114,6 +114,7 @@ This study further aimed to investigate differences with regards to the baseline
 
 ## Summary Statistics Story Ratings
 
+Summary statistics of short story ratings and DAT scores of all participants (196).
 |                 |   mean |   min |   max |   std |
 |:----------------|-------:|------:|------:|------:|
 | CreativityScore |   3.81 |  1.73 |  5.10 |  0.70 |
