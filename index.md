@@ -112,9 +112,25 @@ The pre- and post-questionnaires revealed a significantly lower motivation to en
 
 This study further aimed to investigate differences with regards to the baseline creativity skill levels by measuring divergent thinking skills with a divergent association task (DAT). Previous studies observed an equalizing effect of AI, with low-skilled participants benefiting greater from AI regarding their writing quality. In this study no such effects were observed. This may be due to the relatively high average skill level of all participants or the fully unrestricted access of ChatGPT compared to other studies.
 
+## Summary Statistics Story Ratings
+
+|                 |   mean |   min |   max |   std |
+|:----------------|-------:|------:|------:|------:|
+| CreativityScore |   3.81 |  1.73 |  5.10 |  0.70 |
+| UsefulnessIndex |   4.09 |  1.88 |  6.00 |  0.94 |
+| NoveltyIndex    |   3.52 |  1.48 |  5.56 |  0.90 |
+| OwnershipIndex  |   3.62 |  1.31 |  5.25 |  0.66 |
+| Enjoyed         |   4.03 |  1.40 |  5.83 |  0.97 |
+| WellWritten     |   4.06 |  1.17 |  6.50 |  1.05 |
+| Boring          |   3.42 |  1.40 |  6.33 |  0.92 |
+| Funny           |   2.44 |  1.00 |  5.75 |  1.03 |
+| Twist           |   3.60 |  1.12 |  6.38 |  1.16 |
+| DAT Scores      |  81.13 | 53.68 | 93.18 |  6.89 |
+
+
 ## Stories and Scores
 To find your story, you may want to filter by date and expand the story text. This table displays only stories of participants that did *not* request to exclude their story. If your story is not included and you wish to receive your scores, please contact me. \\
-**Group 1**: No access to ChatGPT, **Group 2**: Access to ChatGPT while writing the short story, **Group 3**: Access to ChatGPT after the task to revise their story. Rating scales from 1 (Not at all) to 7 (Extremely). To get a perspective on your scores, see the overview of results above. For more details on the DAT scores (task where you had to name 10 words as different as possible) see <a href="https://www.datcreativity.com/about" target="_blank">here</a>.
+**Group 1**: No access to ChatGPT, **Group 2**: Access to ChatGPT while writing the short story, **Group 3**: Access to ChatGPT after the task to revise their story. Rating scales from 1 (Not at all) to 7 (Extremely). To get a perspective on your scores, see the summary statistics above. For more details on the DAT scores (task where you had to name 10 words as different as possible) see <a href="https://www.datcreativity.com/about" target="_blank">here</a>.
 
 <style>
 details.story-details summary {
