@@ -109,7 +109,7 @@ The pre- and post-questionnaires revealed a significantly lower motivation to en
 <figcaption>Figure 3: Bootstrap Distribution of Group Coefficients on Outcome Variables</figcaption>
 </figure>
 
-This study further aimed to investigate differences with regards to the baseline creativity skill levels by measuring divergent thinking skills with a divergent association task (DAT). Previous studies observed an equalizing effect of AI, with low-skilled participants benefiting greater from AI regarding the writing quality. In this study no such effects were observed. This may be due to the relatively high average skill level of all participants or the fully unrestricted access of ChatGPT compared to other studies.
+This study further aimed to investigate differences with regards to the baseline creativity skill levels by measuring divergent thinking skills with a divergent association task (DAT). Previous studies observed an equalizing effect of AI, with low-skilled participants benefiting greater from AI regarding their writing quality. In this study no such effects were observed. This may be due to the relatively high average skill level of all participants or the fully unrestricted access of ChatGPT compared to other studies.
 
 ## Stories and Scores
 To find your story, you may want to filter by date and expand the story text. This table displays only stories of participants that did *not* request to exclude their story. If your story is not included and you wish to receive your scores, please contact me.
