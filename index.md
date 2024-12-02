@@ -1,4 +1,5 @@
 # Results of Survey on AI in Creativity Development
+<small>Philpp Rosenkranz, University of Cologne</small>
 
 *Are you just here to see how your story was rated? Go ahead and jump to the <a href="#stories-and-scores">stories and their scores</a>.*
 
