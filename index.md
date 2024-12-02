@@ -114,7 +114,7 @@ This study further aimed to investigate differences with regards to the baseline
 
 ## Stories and Scores
 To find your story, you may want to filter by date and expand the story text. This table displays only stories of participants that did *not* request to exclude their story. If your story is not included and you wish to receive your scores, please contact me. \\
-**Group 1**: No access to ChatGPT, **Group 2**: Access to ChatGPT while writing the short story, **Group 3**: Access to ChatGPT after the task to revise their story. Rating scales from 1 (Not at all) to 7 (Extremely). For more details on the DAT scores (task where you had to name 10 words as different as possible) see [here](https://www.datcreativity.com/about).
+**Group 1**: No access to ChatGPT, **Group 2**: Access to ChatGPT while writing the short story, **Group 3**: Access to ChatGPT after the task to revise their story. Rating scales from 1 (Not at all) to 7 (Extremely). For more details on the DAT scores (task where you had to name 10 words as different as possible) see <a href="[https://www.google.com](https://www.datcreativity.com/about)" target="_blank">here</a>.
 
 <style>
 details.story-details summary {
