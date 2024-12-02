@@ -88,26 +88,25 @@ Participants were assigned to one of three experimental groups with different tr
 
 <figure>
 <img src="figures/SemanticDiff.png" alt="Alt text for the image" width="450">
-<figcaption>Figure 1</figcaption>
+<figcaption>Figure 1: Cosine Similarity to Other Stories Within Group</figcaption>
 </figure>
 
 This finding was also supported by a significantly lower novelty index of stories in Group 2 rated by other participants (see Figure 2). No significant differences between groups were found for the usefulness rating and for emotional characteristics like *funny* or *well written*.
 
 <figure>
   <img src="figures/BoxPlots_All_2.png" alt="Alt text for the image" width="800">
-  <figcaption>Figure 2</figcaption>
+  <figcaption>Figure 2: Box Plots Outcome Variables across Groups</figcaption>
 </figure>
 
-The pre- and post-questionnaires revealed a significantly lower motivation to enhance creative writing skills after the task if a participant had unrestricted access to ChatGPT (see Figure 3 and 4). This highlights a potential negative consequence of AI support on creative skill development. When AI takes on a primary role in content creation, it may diminish the individual’s sense of authorship and control over the creative process, undermining autonomy and, consequently, intrinsic motivation. In addition, extrinsic motivation seems to be weakened by the perception that the goal achieved is not related to one’s own accomplishments, but rather to the supported AI. The fact that this decline in motivation was recognized despite the short duration of the experiment is particularly remarkable and indicates that the effects of AI support on motivation can appear even in short term scenarios. Creative self-efficacy on the other hand showed no significant differences among the groups.
+The pre- and post-questionnaires revealed a significantly lower motivation to enhance creative writing skills after the task if a participant had unrestricted access to ChatGPT (see Figure 3). This highlights a potential negative consequence of AI support on creative skill development. When AI takes on a primary role in content creation, it may diminish the individual’s sense of authorship and control over the creative process, undermining autonomy and, consequently, intrinsic motivation. In addition, extrinsic motivation seems to be weakened by the perception that the goal achieved is not related to one’s own accomplishments, but rather to the supported AI. The fact that this decline in motivation was recognized despite the short duration of the experiment is particularly remarkable and indicates that the effects of AI support on motivation can appear even in short term scenarios. Creative self-efficacy on the other hand showed no significant differences among the groups.
 
 <figure>
 <img src="figures/Bootstrap_NoveltyIndex_KDE2.png" alt="Alt text for the image" width="450">
-<figcaption>Figure 3</figcaption>
 </figure>
 
 <figure>
 <img src="figures/Bootstrap_Motivation_KDE2.png" alt="Alt text for the image" width="450">
-<figcaption>Figure 4</figcaption>
+<figcaption>Figure 3: Bootstrap Distribution of Group Coefficients on Outcome Variables</figcaption>
 </figure>
 
 This study further aimed to investigate differences with regards to the baseline creativity skill levels by measuring divergent thinking skills with a divergent association task (DAT). Previous studies observed an equalizing effect of AI, with low-skilled participants benefiting greater from AI regarding the writing quality. In this study no such effects were observed. This may be due to the relatively high average skill level of all participants or the fully unrestricted access of ChatGPT compared to other studies.
