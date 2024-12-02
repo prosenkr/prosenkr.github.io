@@ -1,6 +1,6 @@
 # Results of Survey on AI in Creativity Development
-<p style="font-size: 0.7em;">Philpp Rosenkranz, University of Cologne (prosenkr@smail.uni-koeln.de)</p>
-<hr style="border: 1px solid grey;">
+<p style="font-size: 0.8em;">Philpp Rosenkranz, University of Cologne (prosenkr@smail.uni-koeln.de)</p>
+<hr style="border: 0.3px solid grey;">
 
 *Are you just here to see how your story was rated? Go ahead and jump to the <a href="#stories-and-scores">stories and their scores</a>.*
 
