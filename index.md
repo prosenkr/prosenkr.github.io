@@ -2261,6 +2261,6 @@ function sortTable(columnIndex) {
 <br><a href="https://www.freecounterstat.com">free hit counter</a>
 <noscript>
   <a href="https://www.freecounterstat.com" title="free hit counter">
-    <img src="https://counter6.optistats.ovh/private/freecounterstat.php?c=tt3ddcjptgnpkdqrgxmfue8pa7x82mf6" border="0" title="free hit counter" alt="free hit counter">
+    <img src="https://counter6.optistats.ovh/private/freecounterstat.php?c=tt3ddcjptgnpkdqrgxmfue8pa7x82mf6" border="2" title="hit counter" alt="free hit counter">
   </a>
 </noscript>
