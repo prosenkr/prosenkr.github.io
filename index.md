@@ -2258,9 +2258,6 @@ function sortTable(columnIndex) {
 
 <div id="sfctt3ddcjptgnpkdqrgxmfue8pa7x82mf6"></div>
 <script type="text/javascript" src="https://counter6.optistats.ovh/private/counter.js?c=tt3ddcjptgnpkdqrgxmfue8pa7x82mf6&down=async" async></script>
-<br><a href="https://www.freecounterstat.com">free hit counter</a>
 <noscript>
-  <a href="https://www.freecounterstat.com" title="free hit counter">
-    <img src="https://counter6.optistats.ovh/private/freecounterstat.php?c=tt3ddcjptgnpkdqrgxmfue8pa7x82mf6" border="2" title="hit counter" alt="free hit counter">
-  </a>
+  <img src="https://counter6.optistats.ovh/private/freecounterstat.php?c=tt3ddcjptgnpkdqrgxmfue8pa7x82mf6" border="0" alt="Visitor Counter">
 </noscript>
